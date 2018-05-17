@@ -1,17 +1,17 @@
-Ò»¸ö»ùÓÚ×îÐÂ°æ±¾TensorFlowµÄÊµÏÖ¡£Çø·ÖdataÊý¾ÝÖÐµÄmidiµÄÎÄ¼þµÄÐÅÏ¢¼°Çø·ÖÒôÆµÖÐÐýÂÉºÍÌØÕ÷¡£
+ä¸€ä¸ªåŸºäºŽæœ€æ–°ç‰ˆæœ¬TensorFlowçš„å®žçŽ°ã€‚åŒºåˆ†dataæ•°æ®ä¸­çš„midiçš„æ–‡ä»¶çš„ä¿¡æ¯åŠåŒºåˆ†éŸ³é¢‘ä¸­æ—‹å¾‹å’Œç‰¹å¾ã€‚
 
 
-## ÐèÇó
+## éœ€æ±‚
 - Python 3.6.X
 - TensorFlow >= 1.2
 
-## Éú³ÉÓ¢ÎÄÎÄ±¾
+## åŒºåˆ†éŸ³é¢‘ä¿¡å·ä¸­çš„æ—‹å¾‹å’Œä¼´å¥
 
-ÔËÐÐÃüÁî:
+è¿è¡Œå‘½ä»¤:
 
 ```
 python  features_to_melody.py
 ```
 
-¾ßÌå²ÎÊýºóÆÚÓÅ»¯£¬¼°Ôö¼ÓÍøÂç½á¹¹¼°Ð§¹û
+å…·ä½“å‚æ•°åŽæœŸä¼˜åŒ–ï¼ŒåŠå¢žåŠ ç½‘ç»œç»“æž„åŠæ•ˆæžœ
 
